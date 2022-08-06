@@ -1,0 +1,2054 @@
+[
+  {
+    "cc": "CN",
+    "flag": "🇨🇳",
+    "title_en": "China",
+    "title_ko": "중국",
+    "title_ja": "中国",
+    "population": "1439323776",
+    "worldometer_title": "China"
+  },
+  {
+    "cc": "KR",
+    "flag": "🇰🇷",
+    "title_en": "South Korea",
+    "title_ko": "대한민국",
+    "title_ja": "韓国",
+    "population": "51269185",
+    "worldometer_title": "S. Korea"
+  },
+  {
+    "cc": "IR",
+    "flag": "🇮🇷",
+    "title_en": "Iran",
+    "title_ko": "이란",
+    "title_ja": "イラン",
+    "population": "83992949",
+    "worldometer_title": "Iran"
+  },
+  {
+    "cc": "IT",
+    "flag": "🇮🇹",
+    "title_en": "Italy",
+    "title_ko": "이탈리아",
+    "title_ja": "イタリア",
+    "population": "60461826",
+    "worldometer_title": "Italy"
+  },
+  {
+    "cc": "JP",
+    "flag": "🇯🇵",
+    "title_en": "Japan",
+    "title_ko": "일본",
+    "title_ja": "日本",
+    "population": "126476461",
+    "worldometer_title": "Japan"
+  },
+  {
+    "cc": "FR",
+    "flag": "🇫🇷",
+    "title_en": "France",
+    "title_ko": "프랑스",
+    "title_ja": "フランス",
+    "population": "65273511",
+    "worldometer_title": "France"
+  },
+  {
+    "cc": "DE",
+    "flag": "🇩🇪",
+    "title_en": "Germany",
+    "title_ko": "독일",
+    "title_ja": "ドイツ",
+    "population": "83783942",
+    "worldometer_title": "Germany"
+  },
+  {
+    "cc": "ES",
+    "flag": "🇪🇸",
+    "title_en": "Spain",
+    "title_ko": "스페인",
+    "title_ja": "スペイン",
+    "population": "46754778",
+    "worldometer_title": "Spain"
+  },
+  {
+    "cc": "SG",
+    "flag": "🇸🇬",
+    "title_en": "Singapore",
+    "title_ko": "싱가포르",
+    "title_ja": "シンガポール",
+    "population": "5850342",
+    "worldometer_title": "Singapore"
+  },
+  {
+    "cc": "US",
+    "flag": "🇺🇸",
+    "title_en": "USA",
+    "title_ko": "미국",
+    "title_ja": "アメリカ",
+    "population": "331002651",
+    "worldometer_title": "USA"
+  },
+  {
+    "cc": "HK",
+    "flag": "🇭🇰",
+    "title_en": "Hong Kong",
+    "title_ko": "홍콩",
+    "title_ja": "香港",
+    "population": "7496981",
+    "worldometer_title": "Hong Kong"
+  },
+  {
+    "cc": "KW",
+    "flag": "🇰🇼",
+    "title_en": "Kuwait",
+    "title_ko": "쿠웨이트",
+    "title_ja": "クウェート",
+    "population": "4270571",
+    "worldometer_title": "Kuwait"
+  },
+  {
+    "cc": "GB",
+    "flag": "🇬🇧",
+    "title_en": "UK",
+    "title_ko": "영국",
+    "title_ja": "イギリス",
+    "population": "67886011",
+    "worldometer_title": "UK"
+  },
+  {
+    "cc": "BH",
+    "flag": "🇧🇭",
+    "title_en": "Bahrain",
+    "title_ko": "바레인",
+    "title_ja": "バーレーン",
+    "population": "1701575",
+    "worldometer_title": "Bahrain"
+  },
+  {
+    "cc": "CH",
+    "flag": "🇨🇭",
+    "title_en": "Switzerland",
+    "title_ko": "스위스",
+    "title_ja": "スイス",
+    "population": "8654622",
+    "worldometer_title": "Switzerland"
+  },
+  {
+    "cc": "TH",
+    "flag": "🇹🇭",
+    "title_en": "Thailand",
+    "title_ko": "태국",
+    "title_ja": "タイ",
+    "population": "69799978",
+    "worldometer_title": "Thailand"
+  },
+  {
+    "cc": "TW",
+    "flag": "🇹🇼",
+    "title_en": "Taiwan",
+    "title_ko": "대만",
+    "title_ja": "台湾",
+    "population": "23816775",
+    "worldometer_title": "Taiwan"
+  },
+  {
+    "cc": "AU",
+    "flag": "🇦🇺",
+    "title_en": "Australia",
+    "title_ko": "호주",
+    "title_ja": "オーストラリア",
+    "population": "25499884",
+    "worldometer_title": "Australia"
+  },
+  {
+    "cc": "MY",
+    "flag": "🇲🇾",
+    "title_en": "Malaysia",
+    "title_ko": "말레이시아",
+    "title_ja": "マレーシア",
+    "population": "32365999",
+    "worldometer_title": "Malaysia"
+  },
+  {
+    "cc": "NO",
+    "flag": "🇳🇴",
+    "title_en": "Norway",
+    "title_ko": "노르웨이",
+    "title_ja": "ノルウェー",
+    "population": "5421241",
+    "worldometer_title": "Norway"
+  },
+  {
+    "cc": "CA",
+    "flag": "🇨🇦",
+    "title_en": "Canada",
+    "title_ko": "캐나다",
+    "title_ja": "カナダ",
+    "population": "37742154",
+    "worldometer_title": "Canada"
+  },
+  {
+    "cc": "IQ",
+    "flag": "🇮🇶",
+    "title_en": "Iraq",
+    "title_ko": "이라크",
+    "title_ja": "イラク",
+    "population": "40222493",
+    "worldometer_title": "Iraq"
+  },
+  {
+    "cc": "AT",
+    "flag": "🇦🇹",
+    "title_en": "Austria",
+    "title_ko": "오스트리아",
+    "title_ja": "オーストリア",
+    "population": "9006398",
+    "worldometer_title": "Austria"
+  },
+  {
+    "cc": "NL",
+    "flag": "🇳🇱",
+    "title_en": "Netherlands",
+    "title_ko": "네덜란드",
+    "title_ja": "オランダ",
+    "population": "17134872",
+    "worldometer_title": "Netherlands"
+  },
+  {
+    "cc": "SE",
+    "flag": "🇸🇪",
+    "title_en": "Sweden",
+    "title_ko": "스웨덴",
+    "title_ja": "スウェーデン",
+    "population": "10099265",
+    "worldometer_title": "Sweden"
+  },
+  {
+    "cc": "AE",
+    "flag": "🇦🇪",
+    "title_en": "UAE",
+    "title_ko": "아랍에미레이트",
+    "title_ja": "アラブ首長国連邦",
+    "population": "9890402",
+    "worldometer_title": "UAE"
+  },
+  {
+    "cc": "VN",
+    "flag": "🇻🇳",
+    "title_en": "Vietnam",
+    "title_ko": "베트남",
+    "title_ja": "ベトナム",
+    "population": "97338579",
+    "worldometer_title": "Vietnam"
+  },
+  {
+    "cc": "BE",
+    "flag": "🇧🇪",
+    "title_en": "Belgium",
+    "title_ko": "벨기에",
+    "title_ja": "ベルギー",
+    "population": "11589623",
+    "worldometer_title": "Belgium"
+  },
+  {
+    "cc": "LB",
+    "flag": "🇱🇧",
+    "title_en": "Lebanon",
+    "title_ko": "레바논",
+    "title_ja": "レバノン",
+    "population": "6825445",
+    "worldometer_title": "Lebanon"
+  },
+  {
+    "cc": "IL",
+    "flag": "🇮🇱",
+    "title_en": "Israel",
+    "title_ko": "이스라엘",
+    "title_ja": "イスラエル",
+    "population": "8655535",
+    "worldometer_title": "Israel"
+  },
+  {
+    "cc": "OM",
+    "flag": "🇴🇲",
+    "title_en": "Oman",
+    "title_ko": "오만",
+    "title_ja": "オマーン",
+    "population": "5106626",
+    "worldometer_title": "Oman"
+  },
+  {
+    "cc": "IS",
+    "flag": "🇮🇸",
+    "title_en": "Iceland",
+    "title_ko": "아이슬란드",
+    "title_ja": "アイスランド",
+    "population": "341243",
+    "worldometer_title": "Iceland"
+  },
+  {
+    "cc": "SM",
+    "flag": "🇸🇲",
+    "title_en": "San Marino",
+    "title_ko": "산마리노",
+    "title_ja": "サンマリノ",
+    "population": "33931",
+    "worldometer_title": "San Marino"
+  },
+  {
+    "cc": "MO",
+    "flag": "🇲🇴",
+    "title_en": "Macao",
+    "title_ko": "마카오",
+    "title_ja": "マカオ",
+    "population": "649335",
+    "worldometer_title": "Macao"
+  },
+  {
+    "cc": "HR",
+    "flag": "🇭🇷",
+    "title_en": "Croatia",
+    "title_ko": "크로아티아",
+    "title_ja": "クロアチア共和国",
+    "population": "4105267",
+    "worldometer_title": "Croatia"
+  },
+  {
+    "cc": "QA",
+    "flag": "🇶🇦",
+    "title_en": "Qatar",
+    "title_ko": "카타르",
+    "title_ja": "カタール",
+    "population": "2881053",
+    "worldometer_title": "Qatar"
+  },
+  {
+    "cc": "EC",
+    "flag": "🇪🇨",
+    "title_en": "Ecuador",
+    "title_ko": "에콰도르",
+    "title_ja": "エクアドル",
+    "population": "17643054",
+    "worldometer_title": "Ecuador"
+  },
+  {
+    "cc": "FI",
+    "flag": "🇫🇮",
+    "title_en": "Finland",
+    "title_ko": "핀란드",
+    "title_ja": "フィンランド",
+    "population": "5540720",
+    "worldometer_title": "Finland"
+  },
+  {
+    "cc": "GR",
+    "flag": "🇬🇷",
+    "title_en": "Greece",
+    "title_ko": "그리스",
+    "title_ja": "ギリシャ",
+    "population": "10423054",
+    "worldometer_title": "Greece"
+  },
+  {
+    "cc": "DK",
+    "flag": "🇩🇰",
+    "title_en": "Denmark",
+    "title_ko": "덴마크",
+    "title_ja": "デンマーク",
+    "population": "5792202",
+    "worldometer_title": "Denmark"
+  },
+  {
+    "cc": "IN",
+    "flag": "🇮🇳",
+    "title_en": "India",
+    "title_ko": "인도",
+    "title_ja": "インド",
+    "population": "1380004385",
+    "worldometer_title": "India"
+  },
+  {
+    "cc": "MX",
+    "flag": "🇲🇽",
+    "title_en": "Mexico",
+    "title_ko": "멕시코",
+    "title_ja": "メキシコ",
+    "population": "128932753",
+    "worldometer_title": "Mexico"
+  },
+  {
+    "cc": "DZ",
+    "flag": "🇩🇿",
+    "title_en": "Algeria",
+    "title_ko": "알제리",
+    "title_ja": "アルジェリア",
+    "population": "43851044",
+    "worldometer_title": "Algeria"
+  },
+  {
+    "cc": "CZ",
+    "flag": "🇨🇿",
+    "title_en": "Czechia",
+    "title_ko": "체코",
+    "title_ja": "チェコ",
+    "population": "10708981",
+    "worldometer_title": "Czechia"
+  },
+  {
+    "cc": "PK",
+    "flag": "🇵🇰",
+    "title_en": "Pakistan",
+    "title_ko": "파키스탄",
+    "title_ja": "パキスタン",
+    "population": "220892340",
+    "worldometer_title": "Pakistan"
+  },
+  {
+    "cc": "RO",
+    "flag": "🇷🇴",
+    "title_en": "Romania",
+    "title_ko": "루마니아",
+    "title_ja": "ルーマニア",
+    "population": "19237691",
+    "worldometer_title": "Romania"
+  },
+  {
+    "cc": "PH",
+    "flag": "🇵🇭",
+    "title_en": "Philippines",
+    "title_ko": "필리핀",
+    "title_ja": "フィリピン",
+    "population": "109581078",
+    "worldometer_title": "Philippines"
+  },
+  {
+    "cc": "AZ",
+    "flag": "🇦🇿",
+    "title_en": "Azerbaijan",
+    "title_ko": "아제르바이잔",
+    "title_ja": "アゼルバイジャン",
+    "population": "10139177",
+    "worldometer_title": "Azerbaijan"
+  },
+  {
+    "cc": "GE",
+    "flag": "🇬🇪",
+    "title_en": "Georgia",
+    "title_ko": "조지아",
+    "title_ja": "ジョージア",
+    "population": "3989167",
+    "worldometer_title": "Georgia"
+  },
+  {
+    "cc": "RU",
+    "flag": "🇷🇺",
+    "title_en": "Russia",
+    "title_ko": "러시아",
+    "title_ja": "ロシア",
+    "population": "145934462",
+    "worldometer_title": "Russia"
+  },
+  {
+    "cc": "BR",
+    "flag": "🇧🇷",
+    "title_en": "Brazil",
+    "title_ko": "브라질",
+    "title_ja": "ブラジル",
+    "population": "212559417",
+    "worldometer_title": "Brazil"
+  },
+  {
+    "cc": "EG",
+    "flag": "🇪🇬",
+    "title_en": "Egypt",
+    "title_ko": "이집트",
+    "title_ja": "エジプト",
+    "population": "102334404",
+    "worldometer_title": "Egypt"
+  },
+  {
+    "cc": "ID",
+    "flag": "🇮🇩",
+    "title_en": "Indonesia",
+    "title_ko": "인도네시아",
+    "title_ja": "インドネシア",
+    "population": "273523615",
+    "worldometer_title": "Indonesia"
+  },
+  {
+    "cc": "PT",
+    "flag": "🇵🇹",
+    "title_en": "Portugal",
+    "title_ko": "포르투갈",
+    "title_ja": "ポルトガル",
+    "population": "10196709",
+    "worldometer_title": "Portugal"
+  },
+  {
+    "cc": "AF",
+    "flag": "🇦🇫",
+    "title_en": "Afghanistan",
+    "title_ko": "아프가니스탄",
+    "title_ja": "アフガニスタン",
+    "population": "38928346",
+    "worldometer_title": "Afghanistan"
+  },
+  {
+    "cc": "AD",
+    "flag": "🇦🇩",
+    "title_en": "Andorra",
+    "title_ko": "안도라",
+    "title_ja": "アンドラ",
+    "population": "77265",
+    "worldometer_title": "Andorra"
+  },
+  {
+    "cc": "AM",
+    "flag": "🇦🇲",
+    "title_en": "Armenia",
+    "title_ko": "아르메니아",
+    "title_ja": "アルメニア",
+    "population": "2963243",
+    "worldometer_title": "Armenia"
+  },
+  {
+    "cc": "BY",
+    "flag": "🇧🇾",
+    "title_en": "Belarus",
+    "title_ko": "벨라루스",
+    "title_ja": "ベラルーシ",
+    "population": "9449323",
+    "worldometer_title": "Belarus"
+  },
+  {
+    "cc": "KH",
+    "flag": "🇰🇭",
+    "title_en": "Cambodia",
+    "title_ko": "캄보디아",
+    "title_ja": "カンボジア",
+    "population": "16718965",
+    "worldometer_title": "Cambodia"
+  },
+  {
+    "cc": "DO",
+    "flag": "🇩🇴",
+    "title_en": "Dominican Republic",
+    "title_ko": "도미니카 공화국",
+    "title_ja": "ドミニカ共和国",
+    "population": "10847910",
+    "worldometer_title": "Dominican Republic"
+  },
+  {
+    "cc": "EE",
+    "flag": "🇪🇪",
+    "title_en": "Estonia",
+    "title_ko": "에스토니아",
+    "title_ja": "エストニア",
+    "population": "1326535",
+    "worldometer_title": "Estonia"
+  },
+  {
+    "cc": "IE",
+    "flag": "🇮🇪",
+    "title_en": "Ireland",
+    "title_ko": "아일랜드",
+    "title_ja": "アイルランド",
+    "population": "4937786",
+    "worldometer_title": "Ireland"
+  },
+  {
+    "cc": "JO",
+    "flag": "🇯🇴",
+    "title_en": "Jordan",
+    "title_ko": "요르단",
+    "title_ja": "ヨルダン",
+    "population": "10203134",
+    "worldometer_title": "Jordan"
+  },
+  {
+    "cc": "LV",
+    "flag": "🇱🇻",
+    "title_en": "Latvia",
+    "title_ko": "라트비아",
+    "title_ja": "ラトビア",
+    "population": "1886198",
+    "worldometer_title": "Latvia"
+  },
+  {
+    "cc": "LT",
+    "flag": "🇱🇹",
+    "title_en": "Lithuania",
+    "title_ko": "리투아니아",
+    "title_ja": "リトアニア",
+    "population": "2722289",
+    "worldometer_title": "Lithuania"
+  },
+  {
+    "cc": "LU",
+    "flag": "🇱🇺",
+    "title_en": "Luxembourg",
+    "title_ko": "룩셈부르크",
+    "title_ja": "ルクセンブルク",
+    "population": "625978",
+    "worldometer_title": "Luxembourg"
+  },
+  {
+    "cc": "MK",
+    "flag": "🇲🇰",
+    "title_en": "North Macedonia",
+    "title_ko": "북마케도니아",
+    "title_ja": "北マケドニア",
+    "population": "2083374",
+    "worldometer_title": "North Macedonia"
+  },
+  {
+    "cc": "MC",
+    "flag": "🇲🇨",
+    "title_en": "Monaco",
+    "title_ko": "모나코",
+    "title_ja": "モナコ",
+    "population": "39242",
+    "worldometer_title": "Monaco"
+  },
+  {
+    "cc": "MA",
+    "flag": "🇲🇦",
+    "title_en": "Morocco",
+    "title_ko": "모로코",
+    "title_ja": "モロッコ",
+    "population": "36910560",
+    "worldometer_title": "Morocco"
+  },
+  {
+    "cc": "NP",
+    "flag": "🇳🇵",
+    "title_en": "Nepal",
+    "title_ko": "네팔",
+    "title_ja": "ネパール",
+    "population": "29136808",
+    "worldometer_title": "Nepal"
+  },
+  {
+    "cc": "NZ",
+    "flag": "🇳🇿",
+    "title_en": "New Zealand",
+    "title_ko": "뉴질랜드",
+    "title_ja": "ニュージーランド",
+    "population": "4822233",
+    "worldometer_title": "New Zealand"
+  },
+  {
+    "cc": "NG",
+    "flag": "🇳🇬",
+    "title_en": "Nigeria",
+    "title_ko": "나이지리아",
+    "title_ja": "ナイジェリア",
+    "population": "206139589",
+    "worldometer_title": "Nigeria"
+  },
+  {
+    "cc": "SA",
+    "flag": "🇸🇦",
+    "title_en": "Saudi Arabia",
+    "title_ko": "사우디아라비아",
+    "title_ja": "サウジアラビア",
+    "population": "34813871",
+    "worldometer_title": "Saudi Arabia"
+  },
+  {
+    "cc": "SN",
+    "flag": "🇸🇳",
+    "title_en": "Senegal",
+    "title_ko": "세네갈",
+    "title_ja": "セネガル",
+    "population": "16743927",
+    "worldometer_title": "Senegal"
+  },
+  {
+    "cc": "LK",
+    "flag": "🇱🇰",
+    "title_en": "Sri Lanka",
+    "title_ko": "스리랑카",
+    "title_ja": "スリランカ",
+    "population": "21413249",
+    "worldometer_title": "Sri Lanka"
+  },
+  {
+    "cc": "TN",
+    "flag": "🇹🇳",
+    "title_en": "Tunisia",
+    "title_ko": "튀니지",
+    "title_ja": "チュニジア",
+    "population": "11818619",
+    "worldometer_title": "Tunisia"
+  },
+  {
+    "cc": "UA",
+    "flag": "🇺🇦",
+    "title_en": "Ukraine",
+    "title_ko": "우크라이나",
+    "title_ja": "ウクライナ",
+    "population": "43733762",
+    "worldometer_title": "Ukraine"
+  },
+  {
+    "cc": "AR",
+    "flag": "🇦🇷",
+    "title_en": "Argentina",
+    "title_ko": "아르헨티나",
+    "title_ja": "アルゼンチン",
+    "population": "45195774",
+    "worldometer_title": "Argentina"
+  },
+  {
+    "cc": "LI",
+    "flag": "🇱🇮",
+    "title_en": "Liechtenstein",
+    "title_ko": "리히텐슈타인",
+    "title_ja": "リヒテンシュタイン",
+    "population": "38128",
+    "worldometer_title": "Liechtenstein"
+  },
+  {
+    "cc": "PL",
+    "flag": "🇵🇱",
+    "title_en": "Poland",
+    "title_ko": "폴란드",
+    "title_ja": "ポーランド",
+    "population": "37846611",
+    "worldometer_title": "Poland"
+  },
+  {
+    "cc": "CL",
+    "flag": "🇨🇱",
+    "title_en": "Chile",
+    "title_ko": "칠레",
+    "title_ja": "チリ",
+    "population": "19116201",
+    "worldometer_title": "Chile"
+  },
+  {
+    "cc": "HU",
+    "flag": "🇭🇺",
+    "title_en": "Hungary",
+    "title_ko": "헝가리",
+    "title_ja": "ハンガリー",
+    "population": "9660351",
+    "worldometer_title": "Hungary"
+  },
+  {
+    "cc": "FO",
+    "flag": "🇫🇴",
+    "title_en": "Faeroe Islands",
+    "title_ko": "페로 제도",
+    "title_ja": "フェロー諸島",
+    "population": "48863",
+    "worldometer_title": "Faeroe Islands"
+  },
+  {
+    "cc": "SI",
+    "flag": "🇸🇮",
+    "title_en": "Slovenia",
+    "title_ko": "슬로베니아",
+    "title_ja": "スロベニア",
+    "population": "2078938",
+    "worldometer_title": "Slovenia"
+  },
+  {
+    "cc": "PS",
+    "flag": "🇵🇸",
+    "title_en": "Palestine",
+    "title_ko": "팔레스타인",
+    "title_ja": "パレスチナ",
+    "population": "5101414",
+    "worldometer_title": "Palestine"
+  },
+  {
+    "cc": "BA",
+    "flag": "🇧🇦",
+    "title_en": "Bosnia and Herzegovina",
+    "title_ko": "보스니아 헤르체고비나",
+    "title_ja": "ボスニア・ヘルツェゴビナ",
+    "population": "3280819",
+    "worldometer_title": "Bosnia and Herzegovina"
+  },
+  {
+    "cc": "ZA",
+    "flag": "🇿🇦",
+    "title_en": "South Africa",
+    "title_ko": "남아프리카 공화국",
+    "title_ja": "南アフリカ共和国",
+    "population": "59308690",
+    "worldometer_title": "South Africa"
+  },
+  {
+    "cc": "CR",
+    "flag": "🇨🇷",
+    "title_en": "Costa Rica",
+    "title_ko": "코스타리카",
+    "title_ja": "コスタリカ",
+    "population": "5094118",
+    "worldometer_title": "Costa Rica"
+  },
+  {
+    "cc": "GI",
+    "flag": "🇬🇮",
+    "title_en": "Gibraltar",
+    "title_ko": "지브롤터",
+    "title_ja": "ジブラルタル",
+    "population": "33691",
+    "worldometer_title": "Gibraltar"
+  },
+  {
+    "cc": "BT",
+    "flag": "🇧🇹",
+    "title_en": "Bhutan",
+    "title_ko": "부탄",
+    "title_ja": "ブータン",
+    "population": "771608",
+    "worldometer_title": "Bhutan"
+  },
+  {
+    "cc": "RS",
+    "flag": "🇷🇸",
+    "title_en": "Serbia",
+    "title_ko": "세르비아",
+    "title_ja": "セルビア",
+    "population": "8737371",
+    "worldometer_title": "Serbia"
+  },
+  {
+    "cc": "SK",
+    "flag": "🇸🇰",
+    "title_en": "Slovakia",
+    "title_ko": "슬로바키아",
+    "title_ja": "スロバキア",
+    "population": "5459642",
+    "worldometer_title": "Slovakia"
+  },
+  {
+    "cc": "CM",
+    "flag": "🇨🇲",
+    "title_en": "Cameroon",
+    "title_ko": "카메룬",
+    "title_ja": "カメルーン",
+    "population": "26545863",
+    "worldometer_title": "Cameroon"
+  },
+  {
+    "cc": "VA",
+    "flag": "🇻🇦",
+    "title_en": "Vatican City",
+    "title_ko": "바티칸 시국",
+    "title_ja": "バチカン市国",
+    "population": "801",
+    "worldometer_title": "Vatican City"
+  },
+  {
+    "cc": "PE",
+    "flag": "🇵🇪",
+    "title_en": "Peru",
+    "title_ko": "페루",
+    "title_ja": "ペルー",
+    "population": "32971854",
+    "worldometer_title": "Peru"
+  },
+  {
+    "cc": "TG",
+    "flag": "🇹🇬",
+    "title_en": "Togo",
+    "title_ko": "토고",
+    "title_ja": "トーゴ",
+    "population": "8278724",
+    "worldometer_title": "Togo"
+  },
+  {
+    "cc": "CO",
+    "flag": "🇨🇴",
+    "title_en": "Colombia",
+    "title_ko": "콜롬비아",
+    "title_ja": "コロンビア",
+    "population": "50882891",
+    "worldometer_title": "Colombia"
+  },
+  {
+    "cc": "MT",
+    "flag": "🇲🇹",
+    "title_en": "Malta",
+    "title_ko": "몰타 공화국",
+    "title_ja": "マルタ共和国",
+    "population": "441543",
+    "worldometer_title": "Malta"
+  },
+  {
+    "cc": "MV",
+    "flag": "🇲🇻",
+    "title_en": "Maldives",
+    "title_ko": "몰디브",
+    "title_ja": "モルディブ",
+    "population": "540544",
+    "worldometer_title": "Maldives"
+  },
+  {
+    "cc": "MD",
+    "flag": "🇲🇩",
+    "title_en": "Moldova",
+    "title_ko": "몰도바",
+    "title_ja": "モルドバ",
+    "population": "4033963",
+    "worldometer_title": "Moldova"
+  },
+  {
+    "cc": "PY",
+    "flag": "🇵🇾",
+    "title_en": "Paraguay",
+    "title_ko": "파라과이",
+    "title_ja": "パラグアイ",
+    "population": "7132538",
+    "worldometer_title": "Paraguay"
+  },
+  {
+    "cc": "BG",
+    "flag": "🇧🇬",
+    "title_en": "Bulgaria",
+    "title_ko": "불가리아",
+    "title_ja": "ブルガリア",
+    "population": "6948445",
+    "worldometer_title": "Bulgaria"
+  },
+  {
+    "cc": "GF",
+    "flag": "🇬🇫",
+    "title_en": "French Guiana",
+    "title_ko": "프랑스령 기아나",
+    "title_ja": "フランス領ギアナ",
+    "population": "298682",
+    "worldometer_title": "French Guiana"
+  },
+  {
+    "cc": "BD",
+    "flag": "🇧🇩",
+    "title_en": "Bangladesh",
+    "title_ko": "방글라데시",
+    "title_ja": "バングラデシュ",
+    "population": "164689383",
+    "worldometer_title": "Bangladesh"
+  },
+  {
+    "cc": "AL",
+    "flag": "🇦🇱",
+    "title_en": "Albania",
+    "title_ko": "알바니아",
+    "title_ja": "アルバニア",
+    "population": "2877797",
+    "worldometer_title": "Albania"
+  },
+  {
+    "cc": "GY",
+    "flag": "🇬🇾",
+    "title_en": "Guyana",
+    "title_ko": "가이아나",
+    "title_ja": "ガイアナ",
+    "population": "786552",
+    "worldometer_title": "Guyana"
+  },
+  {
+    "cc": "MQ",
+    "flag": "🇲🇶",
+    "title_en": "Martinique",
+    "title_ko": "마르티니크",
+    "title_ja": "マルティニーク",
+    "population": "375265",
+    "worldometer_title": "Martinique"
+  },
+  {
+    "cc": "MN",
+    "flag": "🇲🇳",
+    "title_en": "Mongolia",
+    "title_ko": "몽골",
+    "title_ja": "モンゴル",
+    "population": "3278290",
+    "worldometer_title": "Mongolia"
+  },
+  {
+    "cc": "CY",
+    "flag": "🇨🇾",
+    "title_en": "Cyprus",
+    "title_ko": "키프로스",
+    "title_ja": "キプロス",
+    "population": "1207359",
+    "worldometer_title": "Cyprus"
+  },
+  {
+    "cc": "MF",
+    "flag": "🇲🇫",
+    "title_en": "Saint Martin",
+    "title_ko": "생마르탱",
+    "title_ja": "サン・マルタン",
+    "population": "38666",
+    "worldometer_title": "Saint Martin"
+  },
+  {
+    "cc": "BN",
+    "flag": "🇧🇳",
+    "title_en": "Brunei",
+    "title_ko": "브루나이",
+    "title_ja": "ブルネイ",
+    "population": "437479",
+    "worldometer_title": "Brunei"
+  },
+  {
+    "cc": "BF",
+    "flag": "🇧🇫",
+    "title_en": "Burkina Faso",
+    "title_ko": "부르키나파소",
+    "title_ja": "ブルキナ・ファソ",
+    "population": "20903273",
+    "worldometer_title": "Burkina Faso"
+  },
+  {
+    "cc": "PA",
+    "flag": "🇵🇦",
+    "title_en": "Panama",
+    "title_ko": "파나마",
+    "title_ja": "パナマ",
+    "population": "4314767",
+    "worldometer_title": "Panama"
+  },
+  {
+    "cc": "BL",
+    "flag": "🇧🇱",
+    "title_en": "St. Barth",
+    "title_ko": "생바르텔레미",
+    "title_ja": "サン・バルテルミー島",
+    "population": "9877",
+    "worldometer_title": "St. Barth"
+  },
+  {
+    "cc": "SX",
+    "flag": "🇸🇽",
+    "title_en": "Sint Maarten",
+    "title_ko": "신트마르턴",
+    "title_ja": "シント・マールテン",
+    "population": "42876",
+    "worldometer_title": "Sint Maarten"
+  },
+  {
+    "cc": "BO",
+    "flag": "🇧🇴",
+    "title_en": "Bolivia",
+    "title_ko": "볼리비아",
+    "title_ja": "ボリビア",
+    "population": "11673021",
+    "worldometer_title": "Bolivia"
+  },
+  {
+    "cc": "CD",
+    "flag": "🇨🇩",
+    "title_en": "DRC",
+    "title_ko": "콩고민주공화국",
+    "title_ja": "コンゴ民主共和国",
+    "population": "89561403",
+    "worldometer_title": "DRC"
+  },
+  {
+    "cc": "JM",
+    "flag": "🇯🇲",
+    "title_en": "Jamaica",
+    "title_ko": "자메이카",
+    "title_ja": "ジャマイカ",
+    "population": "2961167",
+    "worldometer_title": "Jamaica"
+  },
+  {
+    "cc": "TR",
+    "flag": "🇹🇷",
+    "title_en": "Turkey",
+    "title_ko": "터키",
+    "title_ja": "トルコ",
+    "population": "84339067",
+    "worldometer_title": "Turkey"
+  },
+  {
+    "cc": "HN",
+    "flag": "🇭🇳",
+    "title_en": "Honduras",
+    "title_ko": "온두라스",
+    "title_ja": "ホンジュラス",
+    "population": "9904607",
+    "worldometer_title": "Honduras"
+  },
+  {
+    "cc": "CU",
+    "flag": "🇨🇺",
+    "title_en": "Cuba",
+    "title_ko": "쿠바",
+    "title_ja": "キューバ",
+    "population": "11326616",
+    "worldometer_title": "Cuba"
+  },
+  {
+    "cc": "RE",
+    "flag": "🇷🇪",
+    "title_en": "Réunion",
+    "title_ko": "레위니옹",
+    "title_ja": "レユニオン",
+    "population": "895312",
+    "worldometer_title": "Réunion"
+  },
+  {
+    "cc": "GH",
+    "flag": "🇬🇭",
+    "title_en": "Ghana",
+    "title_ko": "가나",
+    "title_ja": "ガーナ",
+    "population": "31072940",
+    "worldometer_title": "Ghana"
+  },
+  {
+    "cc": "CI",
+    "flag": "🇨🇮",
+    "title_en": "Ivory Coast",
+    "title_ko": "코트디부아르",
+    "title_ja": "コートジボワール",
+    "population": "26378274",
+    "worldometer_title": "Ivory Coast"
+  },
+  {
+    "cc": "PF",
+    "flag": "🇵🇫",
+    "title_en": "French Polynesia",
+    "title_ko": "프랑스령 폴리네시아",
+    "title_ja": "フランス領ポリネシア",
+    "population": "280908",
+    "worldometer_title": "French Polynesia"
+  },
+  {
+    "cc": "VC",
+    "flag": "🇻🇨",
+    "title_en": "St. Vincent Grenadines",
+    "title_ko": "세인트빈센트 그레나딘",
+    "title_ja": "セントビンセント・グレナディーン諸島",
+    "population": "110940",
+    "worldometer_title": "St. Vincent Grenadines"
+  },
+  {
+    "cc": "TT",
+    "flag": "🇹🇹",
+    "title_en": "Trinidad and Tobago",
+    "title_ko": "트리니다드 토바고",
+    "title_ja": "トリニダード・トバゴ",
+    "population": "1399488",
+    "worldometer_title": "Trinidad and Tobago"
+  },
+  {
+    "cc": "SR",
+    "flag": "🇸🇷",
+    "title_en": "Suriname",
+    "title_ko": "수리남",
+    "title_ja": "スリナム",
+    "population": "586632",
+    "worldometer_title": "Suriname"
+  },
+  {
+    "cc": "LC",
+    "flag": "🇱🇨",
+    "title_en": "Saint Lucia",
+    "title_ko": "세인트루시아",
+    "title_ja": "セントルシア",
+    "population": "183627",
+    "worldometer_title": "Saint Lucia"
+  },
+  {
+    "cc": "CW",
+    "flag": "🇨🇼",
+    "title_en": "Curaçao",
+    "title_ko": "퀴라소",
+    "title_ja": "キュラソー",
+    "population": "164093",
+    "worldometer_title": "Curaçao"
+  },
+  {
+    "cc": "MR",
+    "flag": "🇲🇷",
+    "title_en": "Mauritania",
+    "title_ko": "모리타니",
+    "title_ja": "モーリタニア",
+    "population": "4649658",
+    "worldometer_title": "Mauritania"
+  },
+  {
+    "cc": "KE",
+    "flag": "🇰🇪",
+    "title_en": "Kenya",
+    "title_ko": "케냐",
+    "title_ja": "ケニア",
+    "population": "53771296",
+    "worldometer_title": "Kenya"
+  },
+  {
+    "cc": "PR",
+    "flag": "🇵🇷",
+    "title_en": "Puerto Rico",
+    "title_ko": "푸에르토리코",
+    "title_ja": "プエルトリコ",
+    "population": "2860853",
+    "worldometer_title": "Puerto Rico"
+  },
+  {
+    "cc": "AW",
+    "flag": "🇦🇼",
+    "title_en": "Aruba",
+    "title_ko": "아루바",
+    "title_ja": "アルバ",
+    "population": "106766",
+    "worldometer_title": "Aruba"
+  },
+  {
+    "cc": "UY",
+    "flag": "🇺🇾",
+    "title_en": "Uruguay",
+    "title_ko": "우루과이",
+    "title_ja": "ウルグアイ",
+    "population": "3473730",
+    "worldometer_title": "Uruguay"
+  },
+  {
+    "cc": "GT",
+    "flag": "🇬🇹",
+    "title_en": "Guatemala",
+    "title_ko": "과테말라",
+    "title_ja": "グアテマラ",
+    "population": "17915568",
+    "worldometer_title": "Guatemala"
+  },
+  {
+    "cc": "VE",
+    "flag": "🇻🇪",
+    "title_en": "Venezuela",
+    "title_ko": "베네수엘라",
+    "title_ja": "ベネズエラ",
+    "population": "28435940",
+    "worldometer_title": "Venezuela"
+  },
+  {
+    "cc": "AG",
+    "flag": "🇦🇬",
+    "title_en": "Antigua and Barbuda",
+    "title_ko": "앤티가 바부다",
+    "title_ja": "アンティグア・バーブーダ",
+    "population": "97929",
+    "worldometer_title": "Antigua and Barbuda"
+  },
+  {
+    "cc": "ET",
+    "flag": "🇪🇹",
+    "title_en": "Ethiopia",
+    "title_ko": "에티오피아",
+    "title_ja": "エチオピア",
+    "population": "114963588",
+    "worldometer_title": "Ethiopia"
+  },
+  {
+    "cc": "SD",
+    "flag": "🇸🇩",
+    "title_en": "Sudan",
+    "title_ko": "수단",
+    "title_ja": "スーダン",
+    "population": "43849260",
+    "worldometer_title": "Sudan"
+  },
+  {
+    "cc": "GN",
+    "flag": "🇬🇳",
+    "title_en": "Guinea",
+    "title_ko": "기니",
+    "title_ja": "ギニア",
+    "population": "13132795",
+    "worldometer_title": "Guinea"
+  },
+  {
+    "cc": "GA",
+    "flag": "🇬🇦",
+    "title_en": "Gabon",
+    "title_ko": "가봉",
+    "title_ja": "ガボン",
+    "population": "2225734",
+    "worldometer_title": "Gabon"
+  },
+  {
+    "cc": "GP",
+    "flag": "🇬🇵",
+    "title_en": "Guadeloupe",
+    "title_ko": "과들루프",
+    "title_ja": "グアドループ",
+    "population": "400124",
+    "worldometer_title": "Guadeloupe"
+  },
+  {
+    "cc": "KY",
+    "flag": "🇰🇾",
+    "title_en": "Cayman Islands",
+    "title_ko": "케이맨 제도",
+    "title_ja": "ケイマン諸島",
+    "population": "65722",
+    "worldometer_title": "Cayman Islands"
+  },
+  {
+    "cc": "KZ",
+    "flag": "🇰🇿",
+    "title_en": "Kazakhstan",
+    "title_ko": "카자흐스탄",
+    "title_ja": "カザフスタン",
+    "population": "18776707",
+    "worldometer_title": "Kazakhstan"
+  },
+  {
+    "cc": "SZ",
+    "flag": "🇸🇿",
+    "title_en": "Eswatini",
+    "title_ko": "에스와티니",
+    "title_ja": "エスワティニ",
+    "population": "1160164",
+    "worldometer_title": "Eswatini"
+  },
+  {
+    "cc": "NA",
+    "flag": "🇳🇦",
+    "title_en": "Namibia",
+    "title_ko": "나미비아",
+    "title_ja": "ナミビア",
+    "population": "2540905",
+    "worldometer_title": "Namibia"
+  },
+  {
+    "cc": "SC",
+    "flag": "🇸🇨",
+    "title_en": "Seychelles",
+    "title_ko": "세이셸",
+    "title_ja": "セーシェル",
+    "population": "98347",
+    "worldometer_title": "Seychelles"
+  },
+  {
+    "cc": "YT",
+    "flag": "🇾🇹",
+    "title_en": "Mayotte",
+    "title_ko": "마요트",
+    "title_ja": "マヨット",
+    "population": "272815",
+    "worldometer_title": "Mayotte"
+  },
+  {
+    "cc": "RW",
+    "flag": "🇷🇼",
+    "title_en": "Rwanda",
+    "title_ko": "르완다",
+    "title_ja": "ルワンダ",
+    "population": "12952218",
+    "worldometer_title": "Rwanda"
+  },
+  {
+    "cc": "VI",
+    "flag": "🇻🇮",
+    "title_en": "U.S. Virgin Islands",
+    "title_ko": "미국령 버진아일랜드",
+    "title_ja": "アメリカ領ヴァージン諸島",
+    "population": "104425",
+    "worldometer_title": "U.S. Virgin Islands"
+  },
+  {
+    "cc": "GQ",
+    "flag": "🇬🇶",
+    "title_en": "Equatorial Guinea",
+    "title_ko": "적도 기니",
+    "title_ja": "赤道ギニア",
+    "population": "1402985",
+    "worldometer_title": "Equatorial Guinea"
+  },
+  {
+    "cc": "XK",
+    "flag": "🇽🇰",
+    "title_en": "Kosovo",
+    "title_ko": "코소보",
+    "title_ja": "コソボ",
+    "population": "1810463",
+    "worldometer_title": "Kosovo"
+  },
+  {
+    "cc": "UZ",
+    "flag": "🇺🇿",
+    "title_en": "Uzbekistan",
+    "title_ko": "우즈베키스탄",
+    "title_ja": "ウズベキスタン",
+    "population": "33469203",
+    "worldometer_title": "Uzbekistan"
+  },
+  {
+    "cc": "GU",
+    "flag": "🇬🇺",
+    "title_en": "Guam",
+    "title_ko": "괌",
+    "title_ja": "グアム",
+    "population": "168775",
+    "worldometer_title": "Guam"
+  },
+  {
+    "cc": "CF",
+    "flag": "🇨🇫",
+    "title_en": "Central African Republic",
+    "title_ko": "중앙아프리카 공화국",
+    "title_ja": "中央アフリカ共和国",
+    "population": "4829767",
+    "worldometer_title": "CAR"
+  },
+  {
+    "cc": "CG",
+    "flag": "🇨🇬",
+    "title_en": "Congo",
+    "title_ko": "콩고공화국",
+    "title_ja": "コンゴ共和国",
+    "population": "5518087",
+    "worldometer_title": "Congo"
+  },
+  {
+    "cc": "BS",
+    "flag": "🇧🇸",
+    "title_en": "Bahamas",
+    "title_ko": "바하마",
+    "title_ja": "バハマ",
+    "population": "393244",
+    "worldometer_title": "Bahamas"
+  },
+  {
+    "cc": "TZ",
+    "flag": "🇹🇿",
+    "title_en": "Tanzania",
+    "title_ko": "탄자니아",
+    "title_ja": "タンザニア",
+    "population": "59734218",
+    "worldometer_title": "Tanzania"
+  },
+  {
+    "cc": "SO",
+    "flag": "🇸🇴",
+    "title_en": "Somalia",
+    "title_ko": "소말리아",
+    "title_ja": "ソマリア",
+    "population": "15893222",
+    "worldometer_title": "Somalia"
+  },
+  {
+    "cc": "GL",
+    "flag": "🇬🇱",
+    "title_en": "Greenland",
+    "title_ko": "그린란드",
+    "title_ja": "グリーンランド",
+    "population": "56770",
+    "worldometer_title": "Greenland"
+  },
+  {
+    "cc": "LR",
+    "flag": "🇱🇷",
+    "title_en": "Liberia",
+    "title_ko": "라이베리아",
+    "title_ja": "リベリア",
+    "population": "5057681",
+    "worldometer_title": "Liberia"
+  },
+  {
+    "cc": "BJ",
+    "flag": "🇧🇯",
+    "title_en": "Benin",
+    "title_ko": "베냉",
+    "title_ja": "ベナン",
+    "population": "12123200",
+    "worldometer_title": "Benin"
+  },
+  {
+    "cc": "BB",
+    "flag": "🇧🇧",
+    "title_en": "Barbados",
+    "title_ko": "바베이도스",
+    "title_ja": "バルバドス",
+    "population": "287375",
+    "worldometer_title": "Barbados"
+  },
+  {
+    "cc": "GM",
+    "flag": "🇬🇲",
+    "title_en": "Gambia",
+    "title_ko": "감비아",
+    "title_ja": "ガンビア",
+    "population": "2416668",
+    "worldometer_title": "Gambia"
+  },
+  {
+    "cc": "KG",
+    "flag": "🇰🇬",
+    "title_en": "Kyrgyzstan",
+    "title_ko": "키르기스스탄",
+    "title_ja": "キルギス",
+    "population": "6524195",
+    "worldometer_title": "Kyrgyzstan"
+  },
+  {
+    "cc": "ME",
+    "flag": "🇲🇪",
+    "title_en": "Montenegro",
+    "title_ko": "몬테네그로",
+    "title_ja": "モンテネグロ",
+    "population": "628066",
+    "worldometer_title": "Montenegro"
+  },
+  {
+    "cc": "MF",
+    "flag": "🇲🇫",
+    "title_en": "Saint Martin",
+    "title_ko": "세인트마틴 섬",
+    "title_ja": "セント・マーチン島",
+    "population": "38666",
+    "worldometer_title": "Saint Martin"
+  },
+  {
+    "cc": "MS",
+    "flag": "🇲🇸",
+    "title_en": "Montserrat",
+    "title_ko": "몬트세랫",
+    "title_ja": "モンセラート",
+    "population": "4992",
+    "worldometer_title": "Montserrat"
+  },
+  {
+    "cc": "ZM",
+    "flag": "🇿🇲",
+    "title_en": "Zambia",
+    "title_ko": "잠비아",
+    "title_ja": "ザンビア",
+    "population": "18383955",
+    "worldometer_title": "Zambia"
+  },
+  {
+    "cc": "DJ",
+    "flag": "🇩🇯",
+    "title_en": "Djibouti",
+    "title_ko": "지부티",
+    "title_ja": "ジブチ",
+    "population": "988000",
+    "worldometer_title": "Djibouti"
+  },
+  {
+    "cc": "NC",
+    "flag": "🇳🇨",
+    "title_en": "New Caledonia",
+    "title_ko": "뉴칼레도니아",
+    "title_ja": "ニューカレドニア",
+    "population": "285498",
+    "worldometer_title": "New Caledonia"
+  },
+  {
+    "cc": "MU",
+    "flag": "🇲🇺",
+    "title_en": "Mauritius",
+    "title_ko": "모리셔스",
+    "title_ja": "モーリシャス",
+    "population": "1271768",
+    "worldometer_title": "Mauritius"
+  },
+  {
+    "cc": "BM",
+    "flag": "🇧🇲",
+    "title_en": "Bermuda",
+    "title_ko": "버뮤다",
+    "title_ja": "バミューダ",
+    "population": "62278",
+    "worldometer_title": "Bermuda"
+  },
+  {
+    "cc": "SV",
+    "flag": "🇸🇻",
+    "title_en": "El Salvador",
+    "title_ko": "엘살바도르",
+    "title_ja": "エルサルバドル",
+    "population": "6486205",
+    "worldometer_title": "El Salvador"
+  },
+  {
+    "cc": "FJ",
+    "flag": "🇫🇯",
+    "title_en": "Fiji",
+    "title_ko": "피지",
+    "title_ja": "フィジー",
+    "population": "896445",
+    "worldometer_title": "Fiji"
+  },
+  {
+    "cc": "NI",
+    "flag": "🇳🇮",
+    "title_en": "Nicaragua",
+    "title_ko": "니카라과",
+    "title_ja": "ニカラグア",
+    "population": "6624554",
+    "worldometer_title": "Nicaragua"
+  },
+  {
+    "cc": "TD",
+    "flag": "🇹🇩",
+    "title_en": "Chad",
+    "title_ko": "차드",
+    "title_ja": "チャド",
+    "population": "16425864",
+    "worldometer_title": "Chad"
+  },
+  {
+    "cc": "IM",
+    "flag": "🇮🇲",
+    "title_en": "Isle of Man",
+    "title_ko": "맨섬",
+    "title_ja": "マン島",
+    "population": "85033",
+    "worldometer_title": "Isle of Man"
+  },
+  {
+    "cc": "NG",
+    "flag": "🇳🇬",
+    "title_en": "Nigeria",
+    "title_ko": "나이지리아",
+    "title_ja": "ナイジェリア",
+    "population": "206139589",
+    "worldometer_title": "Nigeria"
+  },
+  {
+    "cc": "NE",
+    "flag": "🇳🇪",
+    "title_en": "Niger",
+    "title_ko": "니제르",
+    "title_ja": "ニジェール",
+    "population": "24206644",
+    "worldometer_title": "Niger"
+  },
+  {
+    "cc": "HT",
+    "flag": "🇭🇹",
+    "title_en": "Haiti",
+    "title_ko": "아이티",
+    "title_ja": "ハイチ",
+    "population": "11402528",
+    "worldometer_title": "Haiti"
+  },
+  {
+    "cc": "AO",
+    "flag": "🇦🇴",
+    "title_en": "Angola",
+    "title_ko": "앙골라",
+    "title_ja": "アンゴラ",
+    "population": "32866272",
+    "worldometer_title": "Angola"
+  },
+  {
+    "cc": "CV",
+    "flag": "🇨🇻",
+    "title_en": "Cape Verde",
+    "title_ko": "카보베르데",
+    "title_ja": "カーボベルデ",
+    "population": "555987",
+    "worldometer_title": "Cabo Verde"
+  },
+  {
+    "cc": "SJ",
+    "flag": "🇸🇯",
+    "title_en": "Svalbard",
+    "title_ko": "스발바르 제도",
+    "title_ja": "スヴァールバル諸島",
+    "population": "2667",
+    "worldometer_title": "Svalbard"
+  },
+  {
+    "cc": "PG",
+    "flag": "🇵🇬",
+    "title_en": "Papua New Guinea",
+    "title_ko": "파푸아뉴기니",
+    "title_ja": "パプアニューギニア",
+    "population": "8947024",
+    "worldometer_title": "Papua New Guinea"
+  },
+  {
+    "cc": "MG",
+    "flag": "🇲🇬",
+    "title_en": "Madagascar",
+    "title_ko": "마다가스카르",
+    "title_ja": "マダガスカル",
+    "population": "27691018",
+    "worldometer_title": "Madagascar"
+  },
+  {
+    "cc": "ZW",
+    "flag": "🇿🇼",
+    "title_en": "Zimbabwe",
+    "title_ko": "짐바브웨",
+    "title_ja": "ジンバブエ",
+    "population": "14862924",
+    "worldometer_title": "Zimbabwe"
+  },
+  {
+    "cc": "TL",
+    "flag": "🇹🇱",
+    "title_en": "East Timor",
+    "title_ko": "동티모르",
+    "title_ja": "東ティモール",
+    "population": "1318445",
+    "worldometer_title": "Timor-Leste"
+  },
+  {
+    "cc": "ER",
+    "flag": "🇪🇷",
+    "title_en": "Eritrea",
+    "title_ko": "에리트레아",
+    "title_ja": "エリトリア",
+    "population": "3546421",
+    "worldometer_title": "Eritrea"
+  },
+  {
+    "cc": "UG",
+    "flag": "🇺🇬",
+    "title_en": "Uganda",
+    "title_ko": "우간다",
+    "title_ja": "ウガンダ",
+    "population": "45741007",
+    "worldometer_title": "Uganda"
+  },
+  {
+    "cc": "MZ",
+    "flag": "🇲🇿",
+    "title_en": "Mozambique",
+    "title_ko": "모잠비크",
+    "title_ja": "モザンビーク",
+    "population": "31255435",
+    "worldometer_title": "Mozambique"
+  },
+  {
+    "cc": "GD",
+    "flag": "🇬🇩",
+    "title_en": "Grenada",
+    "title_ko": "그레나다",
+    "title_ja": "グレナダ",
+    "population": "112523",
+    "worldometer_title": "Grenada"
+  },
+  {
+    "cc": "DM",
+    "flag": "🇩🇲",
+    "title_en": "Dominica",
+    "title_ko": "도미니카 연방",
+    "title_ja": "ドミニカ国",
+    "population": "71986",
+    "worldometer_title": "Dominica"
+  },
+  {
+    "cc": "SY",
+    "flag": "🇸🇾",
+    "title_en": "Syria",
+    "title_ko": "시리아",
+    "title_ja": "シリア",
+    "population": "17500658",
+    "worldometer_title": "Syria"
+  },
+  {
+    "cc": "TC",
+    "flag": "🇹🇨",
+    "title_en": "Turks and Caicos Islands",
+    "title_ko": "터크스 케이커스 제도",
+    "title_ja": "タークス・カイコス諸島",
+    "population": "38717",
+    "worldometer_title": "Turks and Caicos"
+  },
+  {
+    "cc": "BZ",
+    "flag": "🇧🇿",
+    "title_en": "Belize",
+    "title_ko": "벨리즈",
+    "title_ja": "ベリーズ",
+    "population": "397628",
+    "worldometer_title": "Belize"
+  },
+  {
+    "cc": "MM",
+    "flag": "🇲🇲",
+    "title_en": "Myanmar",
+    "title_ko": "미얀마",
+    "title_ja": "ミャンマー",
+    "population": "54409800",
+    "worldometer_title": "Myanmar"
+  },
+  {
+    "cc": "LA",
+    "flag": "🇱🇦",
+    "title_en": "Laos",
+    "title_ko": "라오스",
+    "title_ja": "ラオス",
+    "population": "7275560",
+    "worldometer_title": "Laos"
+  },
+  {
+    "cc": "LY",
+    "flag": "🇱🇾",
+    "title_en": "Libya",
+    "title_ko": "리비아",
+    "title_ja": "リビア",
+    "population": "6871292",
+    "worldometer_title": "Libya"
+  },
+  {
+    "cc": "GW",
+    "flag": "🇬🇼",
+    "title_en": "Guinea-Bissau",
+    "title_ko": "기니비사우",
+    "title_ja": "ギニアビサウ",
+    "population": "1968001",
+    "worldometer_title": "Guinea-Bissau"
+  },
+  {
+    "cc": "ML",
+    "flag": "🇲🇱",
+    "title_en": "Mali",
+    "title_ko": "말리",
+    "title_ja": "マリ",
+    "population": "20250833",
+    "worldometer_title": "Mali"
+  },
+  {
+    "cc": "VG",
+    "flag": "🇻🇬",
+    "title_en": "British Virgin Islands",
+    "title_ko": "영국령 버진아일랜드",
+    "title_ja": "イギリス領ヴァージン諸島",
+    "population": "30231",
+    "worldometer_title": "British Virgin Islands"
+  },
+  {
+    "cc": "XN",
+    "flag": "🇰🇳",
+    "title_en": "Saint Kitts and Nevis",
+    "title_ko": "세인트키츠 네비스",
+    "title_ja": "セントキッツ・ネービス",
+    "population": "53199",
+    "worldometer_title": "Saint Kitts and Nevis"
+  },
+  {
+    "cc": "AI",
+    "flag": "🇦🇮",
+    "title_en": "Anguilla",
+    "title_ko": "앵귈라",
+    "title_ja": "アンギラ",
+    "population": "15003",
+    "worldometer_title": "Anguilla"
+  },
+  {
+    "cc": "BW",
+    "flag": "🇧🇼",
+    "title_en": "Botswana",
+    "title_ko": "보츠와나",
+    "title_ja": "ボツワナ",
+    "population": "2351627",
+    "worldometer_title": "Botswana"
+  },
+  {
+    "cc": "SL",
+    "flag": "🇸🇱",
+    "title_en": "Sierra Leone",
+    "title_ko": "시에라리온",
+    "title_ja": "シエラレオネ",
+    "population": "7976983",
+    "worldometer_title": "Sierra Leone"
+  },
+  {
+    "cc": "BI",
+    "flag": "🇧🇮",
+    "title_en": "Burundi",
+    "title_ko": "부룬디",
+    "title_ja": "ブルンジ",
+    "population": "11890784",
+    "worldometer_title": "Burundi"
+  },
+  {
+    "cc": "MW",
+    "flag": "🇲🇼",
+    "title_en": "Malawi",
+    "title_ko": "말라위",
+    "title_ja": "マラウイ",
+    "population": "19129952",
+    "worldometer_title": "Malawi"
+  },
+  {
+    "cc": "FK",
+    "flag": "🇫🇰",
+    "title_en": "Falkland Islands",
+    "title_ko": "포클랜드 제도",
+    "title_ja": "フォークランド諸島",
+    "population": "3480",
+    "worldometer_title": "Falkland Islands"
+  },
+  {
+    "cc": "EH",
+    "flag": "🇪🇭",
+    "title_en": "Western Sahara",
+    "title_ko": "서사하라",
+    "title_ja": "西サハラ",
+    "population": "597339",
+    "worldometer_title": "Western Sahara"
+  },
+  {
+    "cc": "SS",
+    "flag": "🇸🇸",
+    "title_en": "South Sudan",
+    "title_ko": "남수단",
+    "title_ja": "南スーダン",
+    "population": "11193725",
+    "worldometer_title": "South Sudan"
+  },
+  {
+    "cc": "PM",
+    "flag": "🇵🇲",
+    "title_en": "Saint Pierre Miquelon",
+    "title_ko": "생피에르 미클롱",
+    "title_ja": "サンピエール島・ミクロン島",
+    "population": "5794",
+    "worldometer_title": "Saint Pierre Miquelon"
+  },
+  {
+    "cc": "ST",
+    "flag": "🇸🇹",
+    "title_en": "Sao Tome and Principe",
+    "title_ko": "상투메 프린시페",
+    "title_ja": "サントメ・プリンシペ",
+    "population": "219159",
+    "worldometer_title": "Sao Tome and Principe"
+  },
+  {
+    "cc": "YE",
+    "flag": "🇾🇪",
+    "title_en": "Yemen",
+    "title_ko": "예멘",
+    "title_ja": "イエメン",
+    "population": "29825964",
+    "worldometer_title": "Yemen"
+  },
+  {
+    "cc": "TJ",
+    "flag": "🇹🇯",
+    "title_en": "Tajikistan",
+    "title_ko": "타지키스탄",
+    "title_ja": "タジキスタン",
+    "population": "9537645",
+    "worldometer_title": "Tajikistan"
+  },
+  {
+    "cc": "KM",
+    "flag": "🇰🇲",
+    "title_en": "Comoros",
+    "title_ko": "코모로",
+    "title_ja": "コモロ",
+    "population": "869601",
+    "worldometer_title": "Comoros"
+  },
+  {
+    "cc": "LS",
+    "flag": "🇱🇸",
+    "title_en": "Lesotho",
+    "title_ko": "레소토",
+    "title_ja": "レソト",
+    "population": "2142249",
+    "worldometer_title": "Lesotho"
+  },
+  {
+    "cc": "SB",
+    "flag": "🇸🇧",
+    "title_en": "Solomon Islands",
+    "title_ko": "솔로몬 제도",
+    "title_ja": "ソロモン諸島",
+    "population": "686884",
+    "worldometer_title": "Solomon Islands"
+  },
+  {
+    "cc": "WF",
+    "flag": "🇼🇫",
+    "title_en": "Wallis and Futuna",
+    "title_ko": "왈리스 퓌티나",
+    "title_ja": "ウォリス・フツナ",
+    "population": "0",
+    "worldometer_title": "Wallis and Futuna"
+  },
+  {
+    "cc": "MH",
+    "flag": "🇲🇭",
+    "title_en": "Marshall Islands",
+    "title_ko": "마셜 제도",
+    "title_ja": "マーシャル諸島",
+    "population": "59190",
+    "worldometer_title": "Marshall Islands"
+  },
+  {
+    "cc": "VU",
+    "flag": "🇻🇺",
+    "title_en": "Vanuatu",
+    "title_ko": "바누아투",
+    "title_ja": "バヌアツ",
+    "population": "307145",
+    "worldometer_title": "Vanuatu"
+  },
+  {
+    "cc": "WS",
+    "flag": "🇼🇸",
+    "title_en": "Samoa",
+    "title_ko": "사모아",
+    "title_ja": "サモア",
+    "population": "198414",
+    "worldometer_title": "Samoa"
+  },
+  {
+    "cc": "FM",
+    "flag": "🇫🇲",
+    "title_en": "Micronesia",
+    "title_ko": "미크로네시아",
+    "title_ja": "ミクロネシア",
+    "population": "115023",
+    "worldometer_title": "Micronesia"
+  },
+  {
+    "cc": "SH",
+    "flag": "🇸🇭",
+    "title_en": "Saint Helena",
+    "title_ko": "세인트헬레나",
+    "title_ja": "\tセントヘレナ",
+    "population": "6077",
+    "worldometer_title": "Saint Helena"
+  },
+  {
+    "cc": "PW",
+    "flag": "🇵🇼",
+    "title_en": "Palau",
+    "title_ko": "팔라우",
+    "title_ja": "パラオ",
+    "population": "18094",
+    "worldometer_title": "Palau"
+  },
+  {
+    "cc": "TO",
+    "flag": "🇹🇴",
+    "title_en": "Tonga",
+    "title_ko": "통가",
+    "title_ja": "トンガ",
+    "population": "105695",
+    "worldometer_title": "Tonga"
+  },
+  {
+    "cc": "KI",
+    "flag": "🇰🇮",
+    "title_en": "Kiribati",
+    "title_ko": "키리바시",
+    "title_ja": "キリバス",
+    "population": "119449",
+    "worldometer_title": "Kiribati"
+  }
+]
